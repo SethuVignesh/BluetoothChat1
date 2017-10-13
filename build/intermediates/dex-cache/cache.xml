@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/dell/.android/build-cache/74cdf98edaae0ee8431cbc4d8ae386ae076a80c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/home/dell/AndroidStudioProjects/BluetoothChat1/Application/build/intermediates/pre-dexed/debug/classes_a8d6fb82d3016e41936435a43392a40a82456168.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dell/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/home/dell/AndroidStudioProjects/BluetoothChat1/Application/build/intermediates/pre-dexed/debug/common-1.0.0_d84ed6f1083749efe7eab83590d60a26f10b6014.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dell/.android/build-cache/2cda3deb00d7480bd9fbdf3f92e7cf10921a214b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/home/dell/AndroidStudioProjects/BluetoothChat1/Application/build/intermediates/pre-dexed/debug/classes_0465fe79c75d62c19d7c0ac7f2f09d4b99273872.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dell/.android/build-cache/6c2f1f3d5ff77d3dbcf4c038a622ad3563068695/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/dell/AndroidStudioProjects/BluetoothChat1/Application/build/intermediates/pre-dexed/debug/classes_2d2927e847bd4cecc86b823a9242ccbc0dfd57e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dell/.android/build-cache/ecde1ad90ad1887410108e998fd9c857b35cc4e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/home/dell/AndroidStudioProjects/BluetoothChat1/Application/build/intermediates/pre-dexed/debug/classes_a7d169c4ad63ffbd98a98351ffaa571d086b7869.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dell/.android/build-cache/bf3a9e589787474689938cbd5d66b35c656d52d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/home/dell/AndroidStudioProjects/BluetoothChat1/Application/build/intermediates/pre-dexed/debug/classes_9a44b040a0347cd02f00f3c438661e932ceb466d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dell/.android/build-cache/cc0976589d9a7ce1db7fae7c158069b51c7420b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/home/dell/AndroidStudioProjects/BluetoothChat1/Application/build/intermediates/pre-dexed/debug/classes_c87d3a5d64c7884a5d5604952d7849d3606d1330.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dell/.android/build-cache/ac3b883387a15b34a6f989dd51bccb4cebdbe371/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a3e3d3c94305c63a7d6d267cd2b54ec5f9222d31">
+        <dex dex="/home/dell/AndroidStudioProjects/BluetoothChat1/Application/build/intermediates/pre-dexed/debug/classes_549b905269c8565c315a42b92765a6c7faafbb28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dell/.android/build-cache/731603084c54189c1128e91826e2c3de6ab4036b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/home/dell/AndroidStudioProjects/BluetoothChat1/Application/build/intermediates/pre-dexed/debug/classes_1054562c85b56ab858b6e7e925b010e23bae3da8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dell/.android/build-cache/4856bbdff07f8f0e67df8b9de84e1da83c646aee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/home/dell/AndroidStudioProjects/BluetoothChat1/Application/build/intermediates/pre-dexed/debug/classes_8abc9c98fcd0580bf8e70027dcd69221a5402df1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dell/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/dell/AndroidStudioProjects/BluetoothChat1/Application/build/intermediates/pre-dexed/debug/common-1.0.0_402c102352fd181cc5171141763b4d3108dc3a77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dell/.android/build-cache/461ed1f191dfe5999ffc05a3855a600774552a3a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/home/dell/AndroidStudioProjects/BluetoothChat1/Application/build/intermediates/pre-dexed/debug/classes_1322b5ee3c47907f23f61d2c49cdb1c6167aee36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dell/.android/build-cache/143eb3a71a97fc2f08a18d4dbcf06f758c198a39/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/home/dell/AndroidStudioProjects/BluetoothChat1/Application/build/intermediates/pre-dexed/debug/classes_5ecbdcebbc6ec8fa72652d65e21bc42a7847cc21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dell/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/home/dell/AndroidStudioProjects/BluetoothChat1/Application/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_098b9e1f996801ea5a5d560201124000c824c6a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dell/.android/build-cache/25fae2afbeec3a5cbf2b2d76c7c7d7785df9bcbb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/home/dell/AndroidStudioProjects/BluetoothChat1/Application/build/intermediates/pre-dexed/debug/classes_00d67245f50f5c67c1249e2edd17d8521f01c59b.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/dell/AndroidStudioProjects/BluetoothChat1/Application/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/dell/.android/build-cache/4856bbdff07f8f0e67df8b9de84e1da83c646aee/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/BluetoothChat1/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/dell/.android/build-cache/4856bbdff07f8f0e67df8b9de84e1da83c646aee/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/BluetoothChat1/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/dell/.android/build-cache/4856bbdff07f8f0e67df8b9de84e1da83c646aee/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/BluetoothChat1/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/dell/.android/build-cache/4856bbdff07f8f0e67df8b9de84e1da83c646aee/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/BluetoothChat1/Application/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/dell/.android/build-cache/4856bbdff07f8f0e67df8b9de84e1da83c646aee/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/BluetoothChat1/Application/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/dell/.android/build-cache/4856bbdff07f8f0e67df8b9de84e1da83c646aee/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/BluetoothChat1/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/dell/.android/build-cache/4856bbdff07f8f0e67df8b9de84e1da83c646aee/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/BluetoothChat1/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/dell/.android/build-cache/4856bbdff07f8f0e67df8b9de84e1da83c646aee/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/dell/AndroidStudioProjects/BluetoothChat1/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/dell/.android/build-cache/4856bbdff07f8f0e67df8b9de84e1da83c646aee/output/res/color-v23/abc_tint_seek_thumb.xml"
+    }
+]
